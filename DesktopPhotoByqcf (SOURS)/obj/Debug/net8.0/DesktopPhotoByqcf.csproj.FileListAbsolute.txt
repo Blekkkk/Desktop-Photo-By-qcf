@@ -1,0 +1,14 @@
+C:\Users\qcf\Desktop\C#\DesktopPhotoByqcf\bin\Debug\net8.0\DesktopPhotoByqcf.exe
+C:\Users\qcf\Desktop\C#\DesktopPhotoByqcf\bin\Debug\net8.0\DesktopPhotoByqcf.deps.json
+C:\Users\qcf\Desktop\C#\DesktopPhotoByqcf\bin\Debug\net8.0\DesktopPhotoByqcf.runtimeconfig.json
+C:\Users\qcf\Desktop\C#\DesktopPhotoByqcf\bin\Debug\net8.0\DesktopPhotoByqcf.dll
+C:\Users\qcf\Desktop\C#\DesktopPhotoByqcf\bin\Debug\net8.0\DesktopPhotoByqcf.pdb
+C:\Users\qcf\Desktop\C#\DesktopPhotoByqcf\obj\Debug\net8.0\DesktopPhotoByqcf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qcf\Desktop\C#\DesktopPhotoByqcf\obj\Debug\net8.0\DesktopPhotoByqcf.AssemblyInfoInputs.cache
+C:\Users\qcf\Desktop\C#\DesktopPhotoByqcf\obj\Debug\net8.0\DesktopPhotoByqcf.AssemblyInfo.cs
+C:\Users\qcf\Desktop\C#\DesktopPhotoByqcf\obj\Debug\net8.0\DesktopPhotoByqcf.csproj.CoreCompileInputs.cache
+C:\Users\qcf\Desktop\C#\DesktopPhotoByqcf\obj\Debug\net8.0\DesktopPhotoByqcf.dll
+C:\Users\qcf\Desktop\C#\DesktopPhotoByqcf\obj\Debug\net8.0\refint\DesktopPhotoByqcf.dll
+C:\Users\qcf\Desktop\C#\DesktopPhotoByqcf\obj\Debug\net8.0\DesktopPhotoByqcf.pdb
+C:\Users\qcf\Desktop\C#\DesktopPhotoByqcf\obj\Debug\net8.0\DesktopPhotoByqcf.genruntimeconfig.cache
+C:\Users\qcf\Desktop\C#\DesktopPhotoByqcf\obj\Debug\net8.0\ref\DesktopPhotoByqcf.dll
